@@ -402,8 +402,7 @@ Top predictors typically include:
 ---
 
 ## 🤝 Contributing
-
-Contributions are welcome! Some ideas:
+- Contributions are welcome! Some ideas:
 - Add more models or techniques
 - Improve visualizations
 - Add feature engineering
@@ -415,7 +414,7 @@ Contributions are welcome! Some ideas:
 
 ## 📄 License
 
-This project is for educational purposes. 
+- This project is for educational purposes. 
 
 **Dataset License**: CDC BRFSS data is public domain.
 
@@ -424,10 +423,8 @@ This project is for educational purposes.
 ---
 
 ## 📧 Contact
-
-For questions, suggestions, or issues:
+- For questions, suggestions, or issues:
 - Create an issue in the repository
-- Contact the maintainer
 
 ---
 
